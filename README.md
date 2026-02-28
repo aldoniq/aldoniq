@@ -19,14 +19,15 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://streak-stats.demolab.com?user=aldoniq&locale=en&mode=daily&theme=telegram-gradient&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="30" alt="go logo"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aldoniq&radius=16&theme=react&area=true&order=5" height="300" width="500" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=aldoniq&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" width="280" alt="streak graph"  />
-</div>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aldoniq&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
 
 ###
