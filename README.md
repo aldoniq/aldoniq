@@ -1,142 +1,39 @@
-```{=html}
-<h1 align="center">
-```
-Your Name
-```{=html}
-</h1>
-```
-```{=html}
-<p align="center">
-```
-Golang Backend Engineer • Distributed Systems • System Design
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<a href="https://t.me/your_handle">`{=html}
-`<img src="https://img.shields.io/badge/Telegram-000000?style=flat&logo=telegram&logoColor=white"/>`{=html}
-`</a>`{=html} `<a href="mailto:your.email@example.com">`{=html}
-`<img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white"/>`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=HI%20%F0%9F%A4%AA&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
-------------------------------------------------------------------------
+###
 
-## About
+<h2 align="left">Hello! I’m Aldiyar, a backend developer from Kazakhstan, ready to bring innovative solutions to your projects.</h2>
 
-Backend engineer specializing in **Go** and distributed systems.\
-Designing scalable, fault-tolerant microservices with strong
-architectural discipline.
+###
 
-------------------------------------------------------------------------
+<img align="right" height="150" src="https://i.imgflip.com/aldqe8.gif"  />
 
-## Stack
+###
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=go,postgres,docker,kubernetes,linux" />`{=html}
-```{=html}
-</p>
-```
-**Architecture**
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="30" alt="go logo"  />
+</div>
 
-    Clean Architecture • DDD • SOLID • API-first • Microservices
+###
 
-**Focus**
+<div align="center">
+  <a href="https://www.linkedin.com/in/aldiyar-anuar" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/aldoniq" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
 
-    Scalability • Fault Tolerance • Observability • Security • Performance
+###
 
-------------------------------------------------------------------------
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aldoniq&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=aldoniq&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+</div>
 
-## Currently
-
-``` yaml
-building:
-  - scalable REST APIs
-  - production-grade microservices
-  - logging & tracing infrastructure
-
-optimizing:
-  - database queries (PostgreSQL)
-  - concurrency patterns in Go
-  - containerized deployments
-
-exploring:
-  - resilience patterns
-  - distributed system design
-```
-
-------------------------------------------------------------------------
-
-## Learning
-
-    Advanced Distributed Systems
-    Event-Driven Architecture
-    High Load System Design
-    Security Engineering & CTF
-
-------------------------------------------------------------------------
-
-## Engineering DNA
-
-``` go
-type Engineer struct {
-    Language       string
-    Databases      []string
-    Infrastructure []string
-    Architecture   []string
-    Principles     []string
-    Goal           string
-}
-
-var Me = Engineer{
-    Language:       "Go",
-    Databases:      []string{"PostgreSQL"},
-    Infrastructure: []string{"Docker"},
-    Architecture:   []string{"Clean Architecture", "DDD", "Microservices"},
-    Principles:     []string{"Reliability", "Scalability", "Security"},
-    Goal:           "Build systems that survive production at scale",
-}
-```
-
-------------------------------------------------------------------------
-
-## Metrics
-
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true" height="150"/>`{=html}
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true" height="150"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=yourusername&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-## Contact
-
--   Telegram: https://t.me/your_handle\
--   Email: your.email@example.com
-
-------------------------------------------------------------------------
-
-```{=html}
-<p align="center">
-```
-Designing systems that scale. Engineering for production.
-```{=html}
-</p>
-```
+###
