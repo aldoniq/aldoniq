@@ -1,32 +1,121 @@
-<h2 align="left">Hello there! I’m Aldiyar, a backend developer from Kazakhstan, ready to bring innovative solutions to your projects.</h2>
+<!-- ======================================== -->
+<!--                HEADER                   -->
+<!-- ======================================== -->
 
-###
+<h1 align="center">Hi, I'm [Your Name]</h1>
+<p align="center">
+  Backend Engineer • Golang • Distributed Systems
+</p>
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ttNmRjODJjd2dweTdvcjJlcmtwdjRidW5kdm13bTM1M2Myb2kzMSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/rrLt0FcGrDeBq/giphy.gif"  />
+---
 
-###
+<!-- ======================================== -->
+<!--                INTRO                    -->
+<!-- ======================================== -->
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/aldiyar-anuar" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/aldoniq" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-</div>
+## About Me
 
-###
+I’m a backend engineer specializing in **Golang** and distributed system design.  
+I build scalable, fault-tolerant services with a strong focus on clean architecture, maintainability, and performance.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="30" alt="go logo"  />
-</div>
+My core expertise includes designing REST APIs, developing microservices, and working with PostgreSQL-based data systems.  
+I’m passionate about system design, security, and solving complex engineering problems.
 
-###
+---
 
-<br clear="both">
+<!-- ======================================== -->
+<!--               TECH STACK                -->
+<!-- ======================================== -->
 
-<img src="https://raw.githubusercontent.com/a/a/output/snake.svg" alt="Snake animation" />
+## Tech Stack
 
-###
+<!-- You can add/remove badges from shields.io -->
+
+### Backend
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+
+### Architecture & Principles
+- Clean Architecture  
+- Domain-Driven Design (DDD)  
+- SOLID Principles  
+- API-first Development  
+
+---
+
+<!-- ======================================== -->
+<!--          CURRENTLY WORKING ON           -->
+<!-- ======================================== -->
+
+## Currently Working On
+
+- Designing scalable microservice architectures  
+- Improving observability and structured logging  
+- Enhancing API performance and reliability  
+- Exploring distributed system resilience patterns  
+
+<!-- Replace items above with your real current focus -->
+
+---
+
+<!-- ======================================== -->
+<!--               LEARNING                  -->
+<!-- ======================================== -->
+
+## Learning
+
+- Advanced System Design  
+- Distributed Transactions & Event-Driven Architecture  
+- Security Engineering  
+- Low-level performance optimization in Go  
+
+<!-- Update this section as your focus evolves -->
+
+---
+
+<!-- ======================================== -->
+<!--             GITHUB STATS                -->
+<!-- ======================================== -->
+
+## GitHub Stats
+
+<!-- Replace `yourusername` with your GitHub username -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=default" height="160"/>
+</p>
+
+---
+
+<!-- ======================================== -->
+<!--               CONTACTS                  -->
+<!-- ======================================== -->
+
+## Contact
+
+<!-- Replace placeholders with real links -->
+
+- Telegram: https://t.me/your_handle  
+- Email: your.email@example.com  
+
+---
+
+<!-- ======================================== -->
+<!--               FOOTER NOTE               -->
+<!-- ======================================== -->
+
+<!-- 
+Profile philosophy:
+
+- Keep things simple.
+- Build systems that scale.
+- Optimize for reliability and clarity.
+-->
