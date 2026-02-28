@@ -1,10 +1,10 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=HI%20%F0%9F%A4%AA&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=HI%20%F0%9F%A4%AA&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=000000&strokeWidth=3&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
 
-<h2 align="left">Hello! I’m Aldiyar, a backend developer from Kazakhstan, ready to bring innovative solutions to your projects.</h2>
+<h2 align="center">I’m Aldiyar, a backend developer from Kazakhstan, ready to bring innovative solutions to your projects.</h2>
 
 ###
 
